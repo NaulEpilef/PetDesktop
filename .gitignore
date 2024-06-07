@@ -1,0 +1,23 @@
+# Compiled class files
+bin/
+
+# Log files
+*.log
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# Eclipse specific files
+.project
+.classpath
+
+# IntelliJ IDEA specific files
+*.iml
+.idea/
+
+# Exclude all hidden files in the root directory
+.*
+!.gitignore
